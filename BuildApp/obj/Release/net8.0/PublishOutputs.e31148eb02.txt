@@ -1,0 +1,7 @@
+C:\Users\Jay Dev\Documents\tmp\BuildApp\obj\Release\net8.0\PubTmp\Out\BuildApp.exe
+C:\Users\Jay Dev\Documents\tmp\BuildApp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Jay Dev\Documents\tmp\BuildApp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Jay Dev\Documents\tmp\BuildApp\obj\Release\net8.0\PubTmp\Out\BuildApp.dll
+C:\Users\Jay Dev\Documents\tmp\BuildApp\obj\Release\net8.0\PubTmp\Out\BuildApp.deps.json
+C:\Users\Jay Dev\Documents\tmp\BuildApp\obj\Release\net8.0\PubTmp\Out\BuildApp.runtimeconfig.json
+C:\Users\Jay Dev\Documents\tmp\BuildApp\obj\Release\net8.0\PubTmp\Out\BuildApp.pdb
